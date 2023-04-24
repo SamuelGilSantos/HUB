@@ -1,0 +1,19 @@
+body{
+    background-color: #282C33;
+}
+
+label{
+    color: #ABB2BF;
+}
+
+.btn{
+    background-color: #C778DD;
+    border: none;
+}
+
+.btn:hover{
+    transition: .5s;
+    background-color: #C778DD;
+    opacity: .7;
+}
+
